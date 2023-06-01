@@ -1,7 +1,5 @@
 package pl.tabaka.sklep.game;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import pl.tabaka.sklep.GUI.IGUI;
 
 import java.util.Random;

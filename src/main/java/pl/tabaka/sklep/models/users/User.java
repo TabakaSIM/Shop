@@ -1,7 +1,6 @@
 package pl.tabaka.sklep.models.users;
 
 import org.apache.commons.codec.digest.DigestUtils;
-import org.springframework.stereotype.Component;
 import pl.tabaka.sklep.GUI.GUI;
 import pl.tabaka.sklep.artykuly.Produkt;
 import pl.tabaka.sklep.core.Writable;
